@@ -1,0 +1,8 @@
+public class EjercicioBasico3 {
+    public static void main(String [] args){
+        int N =1;
+        System.out.println("Valor inicial de N = " +N);
+        N++;
+        System.out.println("N + 77 = " +N);
+        N--;
+        System.out. println ("N - 3 = " +N);
